@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+
+		<!-- Glock Pack -->
+		<Item>
+		  <modelName>w_pi_servicepistol_9mm</modelName>
+		  <txdName>w_pi_servicepistol</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="50"/>
+		</Item>
+		<Item>
+		  <modelName>w_pi_servicepistol_auto</modelName>
+		  <txdName>w_pi_servicepistol</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="50"/>
+		</Item>
+		<Item>
+		  <modelName>w_pi_servicepistol_45</modelName>
+		  <txdName>w_pi_servicepistol</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_mag1</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_mag2</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_mag3</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_auto_mag1</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_auto_mag2</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_auto_mag3</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_supp</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_comp</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_flsh</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_lsr</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_lsr2</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_sight</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_servicepistol_nightsight</modelName>
+			<txdName>w_pi_servicepistol_comp</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+				
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
