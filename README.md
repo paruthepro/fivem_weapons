@@ -1,5 +1,5 @@
 # FiveM_Weapons
-Some ready to use weapons that server as Addon weapons for FiveM servers.
+Some ready to use weapons that serve as Addon weapons for FiveM servers.
 
 The original makers have confirmed via their GTA5 Mods post that the weapons are free to be used in any/all FiveM servers without explicit notation of creditation. 
 
